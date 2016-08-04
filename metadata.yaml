@@ -1,0 +1,28 @@
+_repo: Where-the-Blue-Begins_1402
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Morley, Christopher
+    alias: Morley, Christopher Darlington
+    birthdate: 1890
+    deathdate: 1957
+    gutenberg_agent_id: '109'
+    url: http://www.gutenberg.org/2009/agents/109
+    wikipedia: http://en.wikipedia.org/wiki/Christopher_Morley
+description: ''
+gutenberg_issued: '1998-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1402'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dogs -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Didactic fiction'
+- !lcsh 'Fantasy fiction'
+- GITenberg
+title: Where the Blue Begins
+url: http://www.gutenberg.org/ebooks/1402
