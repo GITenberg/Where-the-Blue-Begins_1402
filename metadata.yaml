@@ -1,5 +1,8 @@
 _repo: Where-the-Blue-Begins_1402
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Morley, Christopher
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/109
     wikipedia: http://en.wikipedia.org/wiki/Christopher_Morley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1402#Where-the-Blue-Begins
 gutenberg_issued: '1998-07-01'
 gutenberg_type: Text
 identifiers:
